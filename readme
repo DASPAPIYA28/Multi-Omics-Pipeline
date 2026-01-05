@@ -10,14 +10,14 @@ This repository contains production-ready pipelines for multi-omics data integra
 
 ## Key Features
 
- **Multi-modal data integration** - Genomics, transcriptomics, proteomics, metabolomics, epigenomics  
- **Automated QC pipelines** - Quality control and filtering for each omics layer  
- **Advanced normalization** - TMM, DESeq2, quantile normalization, batch correction  
- **Dimensionality reduction** - PCA, t-SNE, UMAP for visualization  
- **Biomarker discovery** - Statistical testing and machine learning approaches  
- **Pathway enrichment** - GO, KEGG, Reactome pathway analysis  
- **Interactive visualizations** - Publication-ready plots and dashboards  
- **Scalable architecture** - Handles datasets from 10s to 1000s of samples  
+✅ **Multi-modal data integration** - Genomics, transcriptomics, proteomics, metabolomics, epigenomics  
+✅ **Automated QC pipelines** - Quality control and filtering for each omics layer  
+✅ **Advanced normalization** - TMM, DESeq2, quantile normalization, batch correction  
+✅ **Dimensionality reduction** - PCA, t-SNE, UMAP for visualization  
+✅ **Biomarker discovery** - Statistical testing and machine learning approaches  
+✅ **Pathway enrichment** - GO, KEGG, Reactome pathway analysis  
+✅ **Interactive visualizations** - Publication-ready plots and dashboards  
+✅ **Scalable architecture** - Handles datasets from 10s to 1000s of samples  
 
 ## Use Cases
 
